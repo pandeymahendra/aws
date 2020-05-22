@@ -1,0 +1,144 @@
+AWS STUDY_PLAN_AWS_AAI
+__________________________________________________________________________________________________________________________________________________
+DAY 1: 20th May 2020
+-------------------------------------
+Module 1: INTRODUCTION
+Well Architected Framework                      |   https://www.youtube.com/watch?v=yb9CH3UbMbw
+AWS Global Infrastructure                       |   https://www.youtube.com/watch?v=gH46jrFfiCc
+
+Module 2: The simplest architectures
+AWS S3                                          |   https://www.youtube.com/watch?v=2nkF_AK96BE ; https://www.youtube.com/watch?v=VC0k-noNwOU
+AWS Glacier                                     |   https://www.youtube.com/watch?v=km3GsOk_ukw
+-------------------------------------
+__________________________________________________________________________________________________________________________________________________
+DAY 2: 21st May 2020
+-------------------------------------
+Module 3: ADDING A COMPUTE LAYER                
+EC2:                                            |   https://www.youtube.com/watch?v=mZy6E2I5Rek ; https://www.youtube.com/watch?v=jLVPqoV4YjU
+                                                |   https://www.youtube.com/watch?v=29QZPttiKJA  
+
+EC2 Image Builder:                              |   https://www.youtube.com/watch?v=9XFuRq0R8nk
+
+EBS:                                            |   https://www.youtube.com/watch?v=BuJa6Vl8cn8 ; https://www.youtube.com/watch?v=wsMWANWNoqQ
+EBS Snapshot:                                   |   https://www.youtube.com/watch?v=ztEDdKn5hm0
+
+EFS:                                            |   https://www.youtube.com/watch?v=4FQvJ2q6_oA ; https://www.youtube.com/watch?v=LWiAwIa2H7c
+
+FSx (for windows file server):                  |   https://www.youtube.com/watch?v=hAftP5QqppQ ; https://www.youtube.com/watch?v=_x_Geur93oc
+                                                |   https://www.youtube.com/watch?v=mSnvUhCZV8g
+
+FSx (for Lustre):                               |   https://www.youtube.com/watch?v=FSO9r0UbH2E ; https://www.youtube.com/watch?v=ZADHiZa3Hjo
+
+-------------------------------------
+Module 4: ADDING A DATABASE LAYER
+
+RDS:                                            |   https://www.youtube.com/watch?v=TJxC-B9Q9tQ ; https://www.youtube.com/watch?v=KWOSGVtHWqA
+                                                |   https://www.youtube.com/watch?v=LcGYO7xhlTc
+
+Aurora:                                         |   https://www.youtube.com/watch?v=uaQEGLKtw54 ; https://www.youtube.com/watch?v=DAJhvRMniqo 
+                                                |   https://www.youtube.com/watch?v=QJB1vUlkmWQ ; https://www.youtube.com/watch?v=Ul-j5fKfv2k
+                                                |   https://www.youtube.com/watch?v=GwEtiRZR4g4
+
+DynamoDB:                                       |   https://www.youtube.com/watch?v=yvBR71D0nAQ ; https://www.youtube.com/watch?v=DIQVJqiSUkE
+                                                |   https://www.youtube.com/watch?v=6yqfmXiZTlM
+
+DMS:                                            |   https://www.youtube.com/watch?v=11IHvxjy4hw ; https://www.youtube.com/watch?v=kJs9U4ys5FE
+
+----------------------------------------
+__________________________________________________________________________________________________________________________________________________
+DAY 3: 22nd May 2020
+----------------------------------------
+Module 5: NETWORKING PART 1
+
+VPC:                                            |   https://www.youtube.com/watch?v=jZAvKgqlrjY ; https://www.youtube.com/watch?v=7acKgdDOOu4
+                                                |   https://www.youtube.com/watch?v=UP7wDBjZ37o
+
+----------------------------------------
+Module 6: NETWORKING PART 2
+
+VPN:                                            |   https://www.youtube.com/watch?v=kqrWjR2Nn7Q ; https://www.youtube.com/watch?v=kqrWjR2Nn7Q
+VGW:                                            |   
+DX:                                             |   https://www.youtube.com/watch?v=eNxPhHTN8gY ; https://www.youtube.com/watch?v=DXFooR95BYc
+VPC Peering:                                    |   
+Transit Gateway:                                |   https://www.youtube.com/watch?v=9Nikqn_02Oc ; https://www.youtube.com/watch?v=sqrBi_4fFdk
+VPC Endpoints:                                  |   
+ELB:                                            |   https://www.youtube.com/watch?v=VIgAT7vjol8 ; https://www.youtube.com/watch?v=HKh54BkaOK0
+High Availability:                              |   
+Route 53:                                       |   https://www.youtube.com/watch?v=PVBC1gb78r8 ; https://www.youtube.com/watch?v=_Z5jAs2gvPA
+----------------------------------------
+
+
+__________________________________________________________________________________________________________________________________________________
+DAY 4: 23rd May 2020
+----------------------------------------
+Module 7: IAM
+IAM:                                            |   https://www.youtube.com/watch?v=YQsK4MtsELU; https://www.youtube.com/watch?v=XO4CALyzbVM
+AWS Cognito:                                    |   https://www.youtube.com/watch?v=jLQjQpUYw6g
+AWS Launchpad:                                  |
+AWS Landing:
+
+----------------------------------------
+Module 8: ELASTICITY, HIGH AVAILABILITY & MONITORING
+Auto Scaling:                                   |   https://www.youtube.com/watch?v=9BlsFNBnKHc 
+CloudWatch:                                     |   https://www.youtube.com/watch?v=_eWaPVski6o ; https://www.youtube.com/watch?v=uuBuc6OAcVY
+CloudTrail:                                     |   https://www.youtube.com/watch?v=YWzmoDzzg4U
+VPC Flow Logs:                                  |   https://www.youtube.com/watch?v=sThQD7wjpgA
+Scaling Databases (RDS, DynamoDB, Aurora):      |   https://www.youtube.com/watch?v=lQEMV_Qgjrw ; https://www.youtube.com/watch?v=LcGYO7xhlTc
+                                                |   https://www.youtube.com/watch?v=b5vvW0l78Vs ; https://www.youtube.com/watch?v=HaEPXoXVf2k(DBD*)
+                                                |   https://www.youtube.com/watch?v=GwEtiRZR4g4
+Aurora Serverless:                              |   https://www.youtube.com/watch?v=9mTwxghXvlE
+
+
+----------------------------------------
+
+__________________________________________________________________________________________________________________________________________________
+DAY 5: 24th May 2020
+----------------------------------------
+Module 9: AUTOMATION
+AWS CloudFormation:                             |   https://www.youtube.com/watch?v=01hy48R9Kr8 ; https://www.youtube.com/watch?v=bJHHQM7GGro
+AWS Quick Starts:                               |   
+AWS Systems Manager:                            |   https://www.youtube.com/watch?v=2efz7EH4czQ ; https://www.youtube.com/watch?v=BmpxZsk9N48
+AWS OpsWorks:                                   |   https://www.youtube.com/watch?v=1Zw4g3o2O0M
+AWS Elastic Beanstalk:                          |   https://www.youtube.com/watch?v=o4clRJuH9xU
+
+----------------------------------------
+Module 10: CACHING
+AWS CloudFront:                                 |   https://www.youtube.com/watch?v=wRaPw1tx6LA ; https://www.youtube.com/watch?v=cIZvZMZD8_o
+                                                |   https://www.youtube.com/watch?v=DeygvViFlXQ ; https://www.youtube.com/watch?v=llTu49RNXw0
+AWS WAF:                                        |   https://www.youtube.com/watch?v=lU_zPruIL9w ; https://www.youtube.com/watch?v=0xlwLEccRe0
+Elasticache:                                    |   https://www.youtube.com/watch?v=dqf_c2UK_zU ; https://www.youtube.com/watch?v=QxcB53mL_oA
+    Redis:
+    Memcached:
+----------------------------------------
+
+__________________________________________________________________________________________________________________________________________________
+DAY 6: 25th May 2020
+----------------------------------------
+Module 11: BUILDING DECOUPLED ARCHITECTURES
+AWS SQS:                                        |   https://www.youtube.com/watch?v=YwHxvKhBQ_g ; https://www.youtube.com/watch?v=UesxWuZMZqI
+AWS SNS:                                        |   https://www.youtube.com/watch?v=2rikdPIFc_Q 
+AWS MQ:                                         |   https://www.youtube.com/watch?v=IzCdl-D3-mk
+AWS Kinesis:                                    |   https://www.youtube.com/watch?v=TAkcRD6OxPw
+
+----------------------------------------
+Module 12: MIRCROSERVICES & SERVERLESS ARCHITECTURES
+AWS ECS:                                        |   https://www.youtube.com/watch?v=leawqlD9EHw ; https://www.youtube.com/watch?v=qbEPae8YNbs
+                                                |   
+API:
+AWS API Gateway:                                |   https://www.youtube.com/watch?v=xkDcBssNd1g ; https://www.youtube.com/watch?v=9ElpSPXk-g8
+AWS Fargate:                                    |   https://www.youtube.com/watch?v=IEvLkwdFgnU ; https://www.youtube.com/watch?v=xBgiArJHv7E
+Serverless Computing & SAM:                     |   https://www.youtube.com/watch?v=VG_nEWsiiGw ; https://www.youtube.com/watch?v=CIdUU6rNdk4
+AWS Lambda:                                     |   https://www.youtube.com/watch?v=TOn0xhev0Uk ; https://www.youtube.com/watch?v=gCQHulp3aVo
+AWS Step Functions:                             |   https://www.youtube.com/watch?v=lKbeBBV1gyc ; https://www.youtube.com/watch?v=hLRL1ik5Nk0
+
+----------------------------------------
+__________________________________________________________________________________________________________________________________________________
+DAY 7: 26th May 2020
+Module 13: RTO/RPO & BACKUP RECOVERY SETUP:
+https://www.youtube.com/watch?v=2G5HoFdd_D0
+
+AWS Storage Gateway:                            |   
+
+Module 14: Review & Wrap-up
+
+                                               

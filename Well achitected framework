@@ -1,0 +1,57 @@
+Well Architected Framework:
+
+* Are you well Architected ??
+
+** Well Architected Framework provides customers with prescriptive advice on how to build and operate a cloud native architecture.
+** It contains a set of questions you can use to measure your architecture against best practices.
+** General Design Guidelines:
+      # Stop guessing your capacity needs
+      # Test systems at production scale
+      # Automate to make architectural experimentation easier
+      # Allow for evolutionary architectures
+      # Drive architectures using data
+      # Improve through game days
+
+** Are you Well Architected around these 5 pillars?
+      # Operational Excellence
+          Perform operations as code
+          Annotate documentation
+          Make frequent, small, reversible changes
+          Refine operations procedures frequently
+          Anticipate failure
+          Learn from all operational failures
+
+      # Security
+          Implement a strong identity foundation
+          Enable traceability
+          Apply security at all layers
+          Automate security best practices
+          Protect data in transit and at rest
+          Keep people away from data
+          Prepare for security events
+
+      # Reliability
+          Test recovery procedures
+          Automatically recover from failure
+          Scale horizontally to increase aggregate system availability
+          Stop guessing capacity
+          Manage change in automation
+
+      # Performance Efficiency
+          Democratize advanced technologies
+          Go global in minutes
+          Use serverless architectures
+          Experiment more often
+          Mechanical sympathy (You force a particular technology to work as you want and you hope they get the performance that we need, rather use the right technology for the right thing instead of bending it to your will )
+
+      # Cost Optimisation
+          Adopt a consumption model
+          Measure overall efficiency
+          Stop spending money on data center operations
+          Analyze and attribute expenditure
+          Use managed services to reduce cost of ownership
+
+** Intent of reviews through these 46 questions:
+      # NOT an Audit - Work together to Improve
+      # NOT architecture astronauts - Pragmatic Proven Advice
+      # NOT a one time check - Throughout Lifecycle
