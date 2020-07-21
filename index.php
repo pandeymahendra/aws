@@ -1,10 +1,10 @@
 <html>
-<title> MAHI's LB DEMO </title>
+<title> MAHI's DEMO </title>
 <body>
 <h1>
 This is a Demo Site
 <br>
-<IMG SRC="https://msandbu.org/wp-content/uploads/2019/08/AWS-ELB-diagram.jpg" ALT="Load Balancer"><br>
+<IMG SRC="https://logos.textgiraffe.com/logos/logo-name/Mahendra-designstyle-colors-m.png" ALT="Demo Logo"><br>
 <center>
 <?php
 $eip = file_get_contents('http://169.254.169.254/latest/meta-data/public-ipv4');
